@@ -1,0 +1,5 @@
+{
+  "LOG_PATH" : "logs/app.log",
+  "MOVIE_API" : "http://www.theimdbapi.org/api/find/movie"
+
+}
